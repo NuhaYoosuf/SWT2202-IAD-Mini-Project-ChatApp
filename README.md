@@ -53,6 +53,7 @@ Update the database connection details in config.php to match your MySQL server 
 05. Start the Apache Server:
 
 Open the XAMPP control panel and start the Apache server.
+
 06. Access the Application:
 
 Open your web browser and navigate to http://localhost/chatapp to access the ChatApp application..
